@@ -1,0 +1,71 @@
+.main-header {
+  color: #cf36ff;
+  font-size: 70px;
+}
+
+.main-header-little {
+  color: #cf36ff;
+  font-size: 40px;
+}
+
+p {
+  font-size: 15px;
+}
+
+label {
+  font-size: 20px;
+  color: orange;
+}
+
+.owner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  color: #7aba7a;
+  font-size: 18px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+li {
+  list-style: none;
+  margin-left: 0px;
+}
+
+.home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  margin-top: 20px;
+}
+
+.form-control {
+  width: 400px;
+}
+
+.hire-text {
+  color: red;
+  padding-left: 10px;
+}
+
+.label-text {
+  color: purple;
+  font-size: 18px;
+}
+
+.sexy-text {
+  font-size: 20px;
+  color: orange;
+}
+
+.my-radio {
+  text-color: purple;
+  padding-left: 15px;
+}
